@@ -1,0 +1,16 @@
+{
+  "name": "pikaweb_example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "antonioaltamura <antonioaltamura7@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "prepare": "pika-web --dest node_modules/@web"
+  },
+  "dependencies": {
+    "lit-element": "^2.2.1"
+  },
+  "devDependencies": {
+    "@pika/web": "^0.6.1"
+  }
+}
